@@ -1,0 +1,1 @@
+Key.enter Key.enter Key.enter h e l l o Key.space t h e r e Key.space a t Key.backspace r e Key.space m a n y Key.space p e o p l e Key.space o u t Key.space t h e r e Key.backspace Key.backspace Key.backspace Key.ctrl_l \x13 Key.esc 
